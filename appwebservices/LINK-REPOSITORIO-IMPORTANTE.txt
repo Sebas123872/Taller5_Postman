@@ -26,9 +26,9 @@ https://github.com/KoroaST/XML-POSTMAN.git
 
 link del Taller 5 NuSoap con Productos.
 
-https://github.com/KoroaST/Taller5-NuSOAP-Productos
+https://github.com/KoroaST/Taller-5-NuSOAP
 
-https://github.com/KoroaST/Taller5-NuSOAP-Productos.git
+https://github.com/KoroaST/Taller-5-NuSOAP.git
 
 Importar la DB; sino, puede dar error o hacer una nueva.
 
