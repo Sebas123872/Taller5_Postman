@@ -1,0 +1,35 @@
+Link del Taller 2.1 y Taller 2.2
+
+https://github.com/KoroaST/Taller21
+
+https://github.com/KoroaST/Taller21.git
+
+//=========================================//
+
+Link del Taller 3 SOAP-XML-DB 
+
+https://github.com/KoroaST/Taller-3-SOAP-XM-LDB
+
+https://github.com/KoroaST/Taller-3-SOAP-XM-LDB.git
+
+Importar la DB; sino, puede dar error o hacer una nueva.
+
+//=========================================//
+
+link del Taller 4 XML - POSTMAN
+
+https://github.com/KoroaST/XML-POSTMAN
+
+https://github.com/KoroaST/XML-POSTMAN.git
+
+//=========================================//
+
+link del Taller 5 NuSoap con Productos.
+
+https://github.com/KoroaST/Taller5-NuSOAP-Productos
+
+https://github.com/KoroaST/Taller5-NuSOAP-Productos.git
+
+Importar la DB; sino, puede dar error o hacer una nueva.
+
+//=========================================//
